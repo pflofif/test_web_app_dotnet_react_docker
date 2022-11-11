@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testReactApi", "testReactApi\testReactApi.csproj", "{5D8D7091-7C66-4D6A-B134-925A95BB182C}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{3FAE7F44-ED4F-4CB3-B528-FCE2DE69626C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8D7091-7C66-4D6A-B134-925A95BB182C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8D7091-7C66-4D6A-B134-925A95BB182C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8D7091-7C66-4D6A-B134-925A95BB182C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8D7091-7C66-4D6A-B134-925A95BB182C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAE7F44-ED4F-4CB3-B528-FCE2DE69626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAE7F44-ED4F-4CB3-B528-FCE2DE69626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAE7F44-ED4F-4CB3-B528-FCE2DE69626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAE7F44-ED4F-4CB3-B528-FCE2DE69626C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {755E2271-B767-458F-ACB4-7D4F206DD697}
+	EndGlobalSection
+EndGlobal
